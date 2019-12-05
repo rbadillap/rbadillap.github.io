@@ -1,11 +1,12 @@
 ---
 layout: post
-title: A Trip
+title: Hello World
 categories: [writeups]
 tags: [bug-bounty, costa-rica]
 author: Ronny
+permalink: /writeups/hello-world
 ---
-## Hello World
+## This is a test
 
 This is a test of a post
 
