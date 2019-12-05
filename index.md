@@ -22,6 +22,10 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
+```sh
+for domain in `cat domains.txt | grep '^https\:\/\/' | sed 's/https\:\/\///g'`; do nmap -Pn $domain | tee -a $domain-nmap.txt; done;
+```
+
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {

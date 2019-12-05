@@ -1,1 +1,18 @@
+---
+exclude: [.idea]
+# Theme name, take a look at https://github.com/pages-themes/hacker if you want more details
 theme: jekyll-theme-hacker
+
+# Website name and description
+title: rh0n.sh
+description: Bug bounty writeups, notes & tips and more tech stuff!...
+
+show_downloads: false
+
+github: [metadata]
+
+social:
+  github: rbadillap
+  hackerone: rh0n
+  twitter: rbadillap
+  linkedin: rbadillap
